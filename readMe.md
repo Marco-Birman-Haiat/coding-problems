@@ -61,6 +61,15 @@ The problems are categorized into different topics:
 </details>
 
 <details>
+  <summary>Binary Tree</summary>
+
+  - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75)
+  - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/?envType=study-plan-v2&envId=leetcode-75)
+  - [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/?envType=study-plan-v2&envId=leetcode-75)
+  
+</details>
+
+<details>
 <summary>Queue</summary>
 
 <details>
