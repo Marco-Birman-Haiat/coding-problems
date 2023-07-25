@@ -4,26 +4,6 @@
 - [Introduction](#introduction)
 - [Desired Skills](#desired-skills)
 - [Problems](#problems)
-  - [Stack](#stack)
-    - [Problem 1](#problem-1)
-    - [Problem 2](#problem-2)
-    - [Problem 3](#problem-3)
-  - [Queue](#queue)
-    - [Problem 1](#problem-1)
-    - [Problem 2](#problem-2)
-    - [Problem 3](#problem-3)
-  - [Linked List](#linked-list)
-    - [Problem 1](#problem-1)
-    - [Problem 2](#problem-2)
-    - [Problem 3](#problem-3)
-  - [Array and Strings](#array-and-strings)
-    - [Problem 1](#problem-1)
-    - [Problem 2](#problem-2)
-    - [Problem 3](#problem-3)
-  - [Dynamic Programming](#dynamic-programming)
-    - [Problem 1](#problem-1)
-    - [Problem 2](#problem-2)
-    - [Problem 3](#problem-3)
 
 ## Introduction
 
@@ -70,105 +50,12 @@ The problems are categorized into different topics:
 </details>
 
 <details>
-<summary>Queue</summary>
+  <summary>Two Pointers</summary>
 
-<details>
-<summary>Problem 1</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-<details>
-<summary>Problem 2</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-<details>
-<summary>Problem 3</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-</details>
-
-<details>
-<summary>Linked List</summary>
-
-<details>
-<summary>Problem 1</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-<details>
-<summary>Problem 2</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-<details>
-<summary>Problem 3</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-</details>
-
-<details>
-<summary>Array and Strings</summary>
-
-<details>
-<summary>Problem 1</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-<details>
-<summary>Problem 2</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-<details>
-<summary>Problem 3</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-</details>
-
-<details>
-<summary>Dynamic Programming</summary>
-
-<details>
-<summary>Problem 1</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-<details>
-<summary>Problem 2</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
-</details>
-
-<details>
-<summary>Problem 3</summary>
-
-**Problem description**: [Replace this with the actual problem description and link if applicable]
-
+  - [Move Zeros](https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=leetcode-75)
+  - [Is Subsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=leetcode-75)
+  - [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/?envType=study-plan-v2&envId=leetcode-75)
+  
 </details>
 
 </details>
