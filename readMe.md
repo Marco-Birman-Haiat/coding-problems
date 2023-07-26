@@ -58,4 +58,14 @@ The problems are categorized into different topics:
   
 </details>
 
+<details>
+  <summary>Dynamic Programming</summary>
+
+  - [N-th Tribonacci Numbe](https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75)
+  - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/?envType=study-plan-v2&envId=leetcode-75)
+  - [House Rober](https://leetcode.com/problems/house-robber/?envType=study-plan-v2&envId=leetcode-75)
+  - [Unique Paths](https://leetcode.com/problems/unique-paths/?envType=study-plan-v2&envId=leetcode-75)
+  
+</details>
+
 </details>
