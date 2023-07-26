@@ -2,7 +2,7 @@
 ## Such detail is manage by leetcode in their websit
 
 def leafSimilar(root1, root2) -> bool:
-        return leaf_sequence(root1) == leaf_sequence(root2)
+    return leaf_sequence(root1) == leaf_sequence(root2)
     
 def leaf_sequence(root):
     if not root:

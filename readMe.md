@@ -78,4 +78,11 @@ The problems are categorized into different topics:
   
 </details>
 
+<details>
+  <summary>Arrays and strings</summary>
+
+  - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/?envType=study-plan-v2&envId=leetcode-75)
+  
+</details>
+
 </details>
