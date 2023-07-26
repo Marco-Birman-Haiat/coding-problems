@@ -68,4 +68,14 @@ The problems are categorized into different topics:
   
 </details>
 
+<details>
+  <summary>Arrays and strings</summary>
+
+  - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/?envType=study-plan-v2&envId=leetcode-75)
+  - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/?envType=study-plan-v2&envId=leetcode-75)
+  - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=leetcode-75)
+  - [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75)
+  
+</details>
+
 </details>
